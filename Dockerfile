@@ -1,6 +1,6 @@
 FROM oraclelinux
 
-MAINTAINER Dixith dbura@apple.com
+MAINTAINER Dixith dixithbura@gmail.com
 
 # Basic packages
 RUN yum update -y
